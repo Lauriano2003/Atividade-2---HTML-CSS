@@ -1,0 +1,25 @@
+.A {
+    background-color: #a45885a4;
+    width: 350px;
+    height: 350px;
+}
+.B{
+    background-color: #9674e3; width: 50%; height: 50%;
+}
+.C{
+    color: rgba(188, 12, 12, 0.725);
+    background-color: rgb(159, 159, 92);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.D{
+    width: 65%;
+    height: 43vh;
+    background-color: rgb(38, 241, 225);
+}
+.E{
+    width: 35vw;
+    height: 70%;
+    background-color: rgba(8, 79, 22, 0.931);
+}
